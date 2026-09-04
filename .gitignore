@@ -11,6 +11,13 @@ __pycache__/
 .venv/
 venv/
 
+# Markdown: на гитхабе оставляем только README
+*.md
+!README.md
+
+# Локальные правила агента
+.cursor/
+
 # Misc
 .DS_Store
 Thumbs.db
