@@ -1,0 +1,16 @@
+# C++
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Misc
+.DS_Store
+Thumbs.db
