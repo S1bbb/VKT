@@ -11,9 +11,10 @@ __pycache__/
 .venv/
 venv/
 
-# Markdown: на гитхабе оставляем только README
+# Markdown: в репо только README (корневой и у вариантов)
 *.md
 !README.md
+!**/README.md
 
 # Локальные правила агента
 .cursor/
